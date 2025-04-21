@@ -6,8 +6,9 @@ The images of the Off-Season Cabinet, including the representatives of nations, 
 
 The bas relief images of the Refractions, including their respective symbols on the bas reliefs, are made by and belong to facuacu art (https://www.artstation.com/facundodiaz2) and are used with permission. If you redistribute them too, this attribution must be retained, and the distribution must remain non-commercial.
 
-The TiddlyWiki software is published under a permissive BSD 3-Clause License, stored inside the main HTML.
+The TiddlyWiki software that is being used for this wiki is published under a permissive BSD 3-Clause License, stored inside the main HTML.
 
+Text of CC BY-NC-ND 4.0 International license follows:
 
 # Attribution-NonCommercial-NoDerivatives 4.0 International
 
