@@ -1,6 +1,7 @@
 # Between Abyssal Skies
 The setting lore of the world Between Abyssal Skies.
-See index.html for the main materials, LICENSE.md file for appropriate info.
+The materials can be viewed in readable form [at the main page](https://vickymolokh.github.io/between_abyssal_skies/).
+See the LICENSE.md file for appropriate info before downloading the raw files. 
 
 
 
