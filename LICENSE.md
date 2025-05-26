@@ -2,9 +2,11 @@ The *original texts* of this document, written by vicky_molokh, are published (a
 
 But if you would like to *expand* the setting using this document as a basis, adding new places and people, apocryphal Refractions and unearthed relics, and so on, then it's all right to add more articles and make small changes to existing articles that tie the old ones to the new ones, and add links to the original texts and the table of contents - just clearly mark which parts are changed and/or added, and ensure that the textual additions are licensed under either CC BY-NC-ND or CC BY-NC-SA. Under these conditions, minor changes to the original text are acceptable, only to the extent that they provide smooth textual paths to the new material.
 
-The images of the Off-Season Cabinet, including the representatives of nations, and the national coats of arms, are made by and belong to Simona Jančíková (https://www.simajancikova.com/), and are used with permission. If you redistribute them too, this attribution must be retained, and the distribution must remain non-commercial.
+The painting-style images of the Off-Season Cabinet, including the representatives of Greater Nations, and the national coats of arms, are made by and belong to Simona Jančíková (https://www.simajancikova.com/), and are used with permission. If you redistribute them too, this attribution must be retained, and the distribution must remain non-commercial.
 
 The bas relief images of the Refractions, including their respective symbols on the bas reliefs, are made by and belong to facuacu art (https://www.artstation.com/facundodiaz2) and are used with permission. If you redistribute them too, this attribution must be retained, and the distribution must remain non-commercial.
+
+The drawing-style images of the Bestiary are made and belong to Lucas Soares (https://www.artstation.com/lucassoaresca) and are used with permission. If you redistribute them too, this attribution must be retained, and the distribution must remain non-commercial.
 
 The TiddlyWiki software that is being used for this wiki is published under a permissive BSD 3-Clause License, stored inside the main HTML.
 
